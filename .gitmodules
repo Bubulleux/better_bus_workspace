@@ -1,0 +1,10 @@
+[submodule "core"]
+	path = core
+	url = https://github.com/Bubulleux/better_bus_core.git
+[submodule "server"]
+	path = server
+	url = https://github.com/Bubulleux/better_bus_server.git
+[submodule "app"]
+	path = app
+	url = https://github.com/Bubulleux/better-bus-v2.git
+	branch = better-bus-server
