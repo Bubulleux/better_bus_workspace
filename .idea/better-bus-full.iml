@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/app/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/app/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/app/build" />
+      <excludeFolder url="file://$MODULE_DIR$/app/linux/flutter/ephemeral/.plugin_symlinks/connectivity_plus/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/app/linux/flutter/ephemeral/.plugin_symlinks/connectivity_plus/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/app/linux/flutter/ephemeral/.plugin_symlinks/connectivity_plus/build" />
+      <excludeFolder url="file://$MODULE_DIR$/app/linux/flutter/ephemeral/.plugin_symlinks/connectivity_plus/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/app/linux/flutter/ephemeral/.plugin_symlinks/connectivity_plus/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/app/linux/flutter/ephemeral/.plugin_symlinks/connectivity_plus/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/app/linux/flutter/ephemeral/.plugin_symlinks/flutter_local_notifications_linux/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/app/linux/flutter/ephemeral/.plugin_symlinks/flutter_local_notifications_linux/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/app/linux/flutter/ephemeral/.plugin_symlinks/flutter_local_notifications_linux/build" />
+      <excludeFolder url="file://$MODULE_DIR$/app/linux/flutter/ephemeral/.plugin_symlinks/package_info_plus/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/app/linux/flutter/ephemeral/.plugin_symlinks/package_info_plus/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/app/linux/flutter/ephemeral/.plugin_symlinks/package_info_plus/build" />
+      <excludeFolder url="file://$MODULE_DIR$/app/linux/flutter/ephemeral/.plugin_symlinks/package_info_plus/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/app/linux/flutter/ephemeral/.plugin_symlinks/package_info_plus/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/app/linux/flutter/ephemeral/.plugin_symlinks/package_info_plus/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/app/linux/flutter/ephemeral/.plugin_symlinks/path_provider_linux/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/app/linux/flutter/ephemeral/.plugin_symlinks/path_provider_linux/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/app/linux/flutter/ephemeral/.plugin_symlinks/path_provider_linux/build" />
+      <excludeFolder url="file://$MODULE_DIR$/app/linux/flutter/ephemeral/.plugin_symlinks/path_provider_linux/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/app/linux/flutter/ephemeral/.plugin_symlinks/path_provider_linux/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/app/linux/flutter/ephemeral/.plugin_symlinks/path_provider_linux/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/app/linux/flutter/ephemeral/.plugin_symlinks/shared_preferences_linux/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/app/linux/flutter/ephemeral/.plugin_symlinks/shared_preferences_linux/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/app/linux/flutter/ephemeral/.plugin_symlinks/shared_preferences_linux/build" />
+      <excludeFolder url="file://$MODULE_DIR$/app/linux/flutter/ephemeral/.plugin_symlinks/shared_preferences_linux/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/app/linux/flutter/ephemeral/.plugin_symlinks/shared_preferences_linux/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/app/linux/flutter/ephemeral/.plugin_symlinks/shared_preferences_linux/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/app/linux/flutter/ephemeral/.plugin_symlinks/url_launcher_linux/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/app/linux/flutter/ephemeral/.plugin_symlinks/url_launcher_linux/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/app/linux/flutter/ephemeral/.plugin_symlinks/url_launcher_linux/build" />
+      <excludeFolder url="file://$MODULE_DIR$/app/linux/flutter/ephemeral/.plugin_symlinks/url_launcher_linux/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/app/linux/flutter/ephemeral/.plugin_symlinks/url_launcher_linux/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/app/linux/flutter/ephemeral/.plugin_symlinks/url_launcher_linux/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/app/linux/flutter/ephemeral/.plugin_symlinks/wakelock_plus/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/app/linux/flutter/ephemeral/.plugin_symlinks/wakelock_plus/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/app/linux/flutter/ephemeral/.plugin_symlinks/wakelock_plus/build" />
+      <excludeFolder url="file://$MODULE_DIR$/app/linux/flutter/ephemeral/.plugin_symlinks/wakelock_plus/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/app/linux/flutter/ephemeral/.plugin_symlinks/wakelock_plus/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/app/linux/flutter/ephemeral/.plugin_symlinks/wakelock_plus/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/build" />
+      <excludeFolder url="file://$MODULE_DIR$/core/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/core/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/core/build" />
+      <excludeFolder url="file://$MODULE_DIR$/server/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/server/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/server/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Dart SDK" level="project" />
+    <orderEntry type="library" name="Dart Packages" level="project" />
+  </component>
+</module>
