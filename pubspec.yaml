@@ -16,3 +16,4 @@ workspace:
   - server
   - app
   - core
+  - better_bus_angouleme

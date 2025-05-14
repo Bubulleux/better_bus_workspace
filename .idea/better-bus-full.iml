@@ -54,6 +54,12 @@
       <excludeFolder url="file://$MODULE_DIR$/server/.dart_tool" />
       <excludeFolder url="file://$MODULE_DIR$/server/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/server/build" />
+      <excludeFolder url="file://$MODULE_DIR$/apps/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/apps/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/apps/build" />
+      <excludeFolder url="file://$MODULE_DIR$/better_bus_angouleme/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/better_bus_angouleme/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/better_bus_angouleme/build" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
