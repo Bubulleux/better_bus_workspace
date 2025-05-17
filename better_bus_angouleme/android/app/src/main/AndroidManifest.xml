@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.bubulle.better_bus_angouleme">
     <application
-        android:label="better_bus_angouleme"
+        android:label="Better Bus"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity

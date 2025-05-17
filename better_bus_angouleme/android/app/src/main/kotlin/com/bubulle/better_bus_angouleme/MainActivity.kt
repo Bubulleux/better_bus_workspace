@@ -1,4 +1,4 @@
-package com.example.better_bus_angouleme
+package com.bubulle.better_bus_angouleme
 
 import io.flutter.embedding.android.FlutterActivity
 
