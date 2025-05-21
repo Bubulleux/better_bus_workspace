@@ -1,9 +1,8 @@
-import 'package:better_bus_angouleme/mobius_downloader.dart';
+import 'mobius_downloader.dart';
 import 'package:better_bus_v2/better_bus.dart';
 import 'package:better_bus_v2/data_provider/app_provider.dart';
 import 'package:better_bus_v2/model/app_config.dart';
 import 'package:better_bus_v2/model/app_paths.dart';
-import 'package:better_bus_core/core.dart';
 import 'package:latlong2/latlong.dart';
 import 'package:flutter/material.dart';
 
