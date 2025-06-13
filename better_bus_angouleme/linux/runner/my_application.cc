@@ -5,7 +5,7 @@
 #include <gdk/gdkx.h>
 #endif
 
-#include "../../../app/linux/flutter/ephemeral/.plugin_symlinks/wakelock_plus/example/windows/flutter/generated_plugin_registrant.h"
+#include "flutter/generated_plugin_registrant.h"
 
 struct _MyApplication {
   GtkApplication parent_instance;
